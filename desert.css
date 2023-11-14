@@ -98,6 +98,7 @@ button
     margin: 10px 15px;
     background-position: center;
     background-size: cover;
+    transition: transform 0.5s;
       
 }
 
@@ -113,7 +114,7 @@ button
 }
 .card3
 {
-    background-image: url(pic-3.png);
+    background-image: url(pic-3.png); 
 
 }
 .card4
